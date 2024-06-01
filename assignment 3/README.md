@@ -1,4 +1,4 @@
-# To run the program, execute the main python file: HJZW6.py
+# To run the program, execute the main python file: run_maze.py
 
 # Participants can use arrow keys to control the figure to exit a maze
 
