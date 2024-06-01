@@ -1,0 +1,12 @@
+Subject_ID,age,gender,ethnicity,education,employment,topographical,auditory,attention,judgment,decision,interaction,Maze_ID,Maze_speed,Time_elapsed
+1,34,Female,Caucasian/East Asian,High school degree or equivalent,Unemployed,False,False,Extrovert,Intuition,Feeling,Perceiving,2,3,189.694093
+1,34,Female,Caucasian/East Asian,High school degree or equivalent,Unemployed,False,False,Extrovert,Intuition,Feeling,Perceiving,1,1,15.980639
+2,49,Female,Caucasian,High school degree or equivalent,Student   ,False,False,Introvert,Intuition,Feeling,Perceiving,1,2,18.543084
+3,53,Female,Caribbean,Less than high school degree,Student   ,False,False,Introvert,Intuition,Feeling,Perceiving,2,1,11.956165
+4,63,Female,Caribbean,High school degree or equivalent,Student   ,False,False,Introvert,Intuition,Feeling,Perceiving,1,2,49.107605
+4,63,Female,Caribbean,High school degree or equivalent,Student   ,False,False,Introvert,Intuition,Feeling,Perceiving,2,3,54.512929
+5,47,Female,Caucasian,High school degree or equivalent,Student   ,False,False,Introvert,Intuition,Feeling,Perceiving,1,1,45.319944
+6,81,Female,Caucasian/East Asian,Less than high school degree,Student   ,False,True,Extrovert,Sensing,Thinking,Judging,2,2,39.617285
+6,81,Female,Caucasian/East Asian,Less than high school degree,Student   ,False,True,Extrovert,Sensing,Thinking,Judging,1,3,21.191049
+7,61,Male,African/Arab/Caribbean,Less than high school degree,Student   ,True,True,Introvert,Sensing,Thinking,Judging,2,1,16.230966
+7,61,Male,African/Arab/Caribbean,Less than high school degree,Student   ,True,True,Introvert,Sensing,Thinking,Judging,1,2,30.937609
